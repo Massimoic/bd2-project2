@@ -175,7 +175,7 @@ Para visualizar los resultados implementamos una pequeña aplicación web usando
 ## Prueba de uso
 Se adjunta el siguiente video que muestra la funcionalidad de la aplicación.
 
-[DB2 - Proyecto 2 - Funcionalidad de la aplicación]()
+[DB2 - Proyecto 2 - Funcionalidad de la aplicación](https://drive.google.com/file/d/1yOGvmnyXrY8AWbIzxYKpPk1Q0ZPhCX70/view?usp=sharing)
 
 ## Anexos
 - Descripción de los campos en los registros del conjunto de datos
