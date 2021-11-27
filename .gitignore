@@ -1,0 +1,7 @@
+.DS_Store
+src/__pycache__
+src/data/articles1.csv
+src/data/term-index.txt
+src/data/doc-norms.txt
+src/data/temp
+.vscode/*
